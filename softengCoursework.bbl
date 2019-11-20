@@ -1,0 +1,57 @@
+\begin{thebibliography}{xx}
+
+\harvarditem[Burtica et~al.]{Burtica, Mocanu, Andreica \harvardand\
+  {\c{T}}{\u{a}}pu{\c{s}}}{2012}{burtica2012practical}
+Burtica, R., Mocanu, E.~M., Andreica, M.~I. \harvardand\
+  {\c{T}}{\u{a}}pu{\c{s}}, N.  \harvardyearleft 2012\harvardyearright ,
+  Practical application and evaluation of no-sql databases in cloud computing,
+  {\em in} `2012 IEEE International Systems Conference SysCon 2012', IEEE,
+  pp.~1--6.
+
+\harvarditem{Chandra}{2015}{chandra2015base}
+Chandra, D.~G.  \harvardyearleft 2015\harvardyearright , `Base analysis of
+  nosql database', {\em Future Generation Computer Systems} {\bf 52},~13--21.
+
+\harvarditem[Delfosse et~al.]{Delfosse, Billen \harvardand\
+  Leclercq}{2012}{delfosse2012uml}
+Delfosse, V., Billen, R. \harvardand\ Leclercq, P.  \harvardyearleft
+  2012\harvardyearright , `Uml as a schema candidate for graph databases', {\em
+  NoSql Matters 2012} .
+
+\harvarditem{Hecht \harvardand\ Jablonski}{2011}{hecht2011nosql}
+Hecht, R. \harvardand\ Jablonski, S.  \harvardyearleft 2011\harvardyearright ,
+  Nosql evaluation: A use case oriented survey, {\em in} `2011 International
+  Conference on Cloud and Service Computing', IEEE, pp.~336--341.
+
+\harvarditem[Lombardo et~al.]{Lombardo, Di~Nitto \harvardand\
+  Ardagna}{2012}{lombardo2012issues}
+Lombardo, S., Di~Nitto, E. \harvardand\ Ardagna, D.  \harvardyearleft
+  2012\harvardyearright , Issues in handling complex data structures with nosql
+  databases, {\em in} `2012 14th International Symposium on Symbolic and
+  Numeric Algorithms for Scientific Computing', IEEE, pp.~443--448.
+
+\harvarditem{{Mehmood} \harvardand\ {Anees}}{2019}{8840837}
+{Mehmood}, E. \harvardand\ {Anees}, T.  \harvardyearleft 2019\harvardyearright
+  , `Performance analysis of not only sql semi-stream join using mongodb for
+  real-time data warehousing', {\em IEEE Access} {\bf 7},~134215--134225.
+
+\harvarditem[Mohamed et~al.]{Mohamed, Altrafi \harvardand\
+  Ismail}{2014}{mohamed2014relational}
+Mohamed, M.~A., Altrafi, O.~G. \harvardand\ Ismail, M.~O.  \harvardyearleft
+  2014\harvardyearright , `Relational vs. nosql databases: A survey', {\em
+  International Journal of Computer and Information Technology} {\bf
+  3}(03),~598--601.
+
+\harvarditem{{Ongo} \harvardand\ {Kusuma}}{2018}{8528120}
+{Ongo}, G. \harvardand\ {Kusuma}, G.~P.  \harvardyearleft 2018\harvardyearright
+  , Hybrid database system of mysql and mongodb in web application development,
+  {\em in} `2018 International Conference on Information Management and
+  Technology (ICIMTech)', pp.~256--260.
+
+\harvarditem{Tang \harvardand\ Fan}{2016}{tang2016performance}
+Tang, E. \harvardand\ Fan, Y.  \harvardyearleft 2016\harvardyearright ,
+  Performance comparison between five nosql databases, {\em in} `2016 7th
+  International Conference on Cloud Computing and Big Data (CCBD)', IEEE,
+  pp.~105--109.
+
+\end{thebibliography}
